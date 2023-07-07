@@ -27,17 +27,17 @@
   border-radius: 10px;
 }
 h1 {
-  margin-block-start: 10px;
   font-size: 1.8em;
+  width: 95%;
+  margin-inline: auto;
+  margin-top: 0.8em;
 }
 .card_info p {
   font-size: 15px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  text-align: center;
-  margin: 20px 0 20px;
   color: hsl(220, 15%, 55%);
+  width: 90%;
+  margin-inline: auto;
+  margin-top: 0.8em;
 }
 
 .card_info .first-child {
